@@ -1,0 +1,27 @@
+{
+  "name": "git-demo-tan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tan308187/git-demo-tan.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tan308187/git-demo-tan/issues"
+  },
+  "homepage": "https://github.com/Tan308187/git-demo-tan#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  }
+}
